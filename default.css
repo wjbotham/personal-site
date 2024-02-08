@@ -26,3 +26,7 @@ nav {
 	text-align: center;
 	background-color: var(--bg-color-dark);
 }
+
+img {
+    max-width: 100%
+}
