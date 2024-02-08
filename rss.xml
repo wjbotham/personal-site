@@ -1,32 +1,32 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Wesley's Home Page</title>
-    <link>https://wajib.getbisexual.com</link>
+    <link>https://wajib.space</link>
     <description>My personal page where I post things I don't want anyone to see.</description>
     <language>en-US</language>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <atom:link href="https://wajib.getbisexual.com/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wajib.space/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bi Resources</title>
-      <link>https://wajib.getbisexual.com/posts/bi-resources</link>
+      <link>https://wajib.space/posts/bi-resources</link>
       <description>A list of resources for bi people.</description>
-      <guid>https://wajib.getbisexual.com/posts/bi-resources</guid>
+      <guid>https://wajib.space/posts/bi-resources</guid>
     </item>
     <item>
       <title>Cornhusker Coach Names</title>
-      <link>https://wajib.getbisexual.com/posts/cornhusker-coach-names</link>
-      <guid>https://wajib.getbisexual.com/posts/cornhusker-coach-names</guid>
+      <link>https://wajib.space/posts/cornhusker-coach-names</link>
+      <guid>https://wajib.space/posts/cornhusker-coach-names</guid>
     </item>
     <item>
       <title>EVE Online Resources</title>
-      <link>https://wajib.getbisexual.com/posts/eve-online-resources</link>
+      <link>https://wajib.space/posts/eve-online-resources</link>
       <description>Just stuff I want to be able to find quickly.</description>
-      <guid>https://wajib.getbisexual.com/posts/eve-online-resources</guid>
+      <guid>https://wajib.space/posts/eve-online-resources</guid>
     </item>
     <item>
       <title>A list of terrible dreams I've had</title>
-      <link>https://wajib.getbisexual.com/posts/nightmares</link>
-      <guid>https://wajib.getbisexual.com/posts/nightmares</guid>
+      <link>https://wajib.space/posts/nightmares</link>
+      <guid>https://wajib.space/posts/nightmares</guid>
     </item>
   </channel>
 </rss>
