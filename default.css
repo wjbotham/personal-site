@@ -28,5 +28,10 @@ nav {
 }
 
 img {
-    max-width: 100%
+    max-width: 100%;
+}
+
+.post_metadata {
+    font-size: 11px;
+    font-style: italic;
 }
