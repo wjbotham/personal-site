@@ -7,6 +7,30 @@
     <docs>https://www.rssboard.org/rss-specification</docs>
     <atom:link href="https://wajib.space/rss.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Bi Resources</title>
+      <link>https://wajib.space/posts/bi-resources</link>
+      <description>A list of resources for bi people.</description>
+      <guid>https://wajib.space/posts/bi-resources</guid>
+    </item>
+    <item>
+      <title>Cornhusker Coach Names</title>
+      <link>https://wajib.space/posts/cornhusker-coach-names</link>
+      <description>A Markov chain-generated list of future Cornhusker coach names.</description>
+      <guid>https://wajib.space/posts/cornhusker-coach-names</guid>
+    </item>
+    <item>
+      <title>EVE Online Resources</title>
+      <link>https://wajib.space/posts/eve-online-resources</link>
+      <description>Just stuff I want to be able to find quickly.</description>
+      <guid>https://wajib.space/posts/eve-online-resources</guid>
+    </item>
+    <item>
+      <title>Nightmares</title>
+      <link>https://wajib.space/posts/nightmares</link>
+      <description>A list of terrible dreams I've had.</description>
+      <guid>https://wajib.space/posts/nightmares</guid>
+    </item>
+    <item>
       <title>January 2024 Media</title>
       <link>https://wajib.space/posts/2024-01-media</link>
       <description>Stuff I watched, read, or played in January 2024.</description>
@@ -35,30 +59,6 @@
       <link>https://wajib.space/posts/2024-07-media</link>
       <description>Stuff I watched, read, or played in June and August of 2024.</description>
       <guid>https://wajib.space/posts/2024-07-media</guid>
-    </item>
-    <item>
-      <title>Bi Resources</title>
-      <link>https://wajib.space/posts/bi-resources</link>
-      <description>A list of resources for bi people.</description>
-      <guid>https://wajib.space/posts/bi-resources</guid>
-    </item>
-    <item>
-      <title>Cornhusker Coach Names</title>
-      <link>https://wajib.space/posts/cornhusker-coach-names</link>
-      <description>A Markov chain-generated list of future Cornhusker coach names.</description>
-      <guid>https://wajib.space/posts/cornhusker-coach-names</guid>
-    </item>
-    <item>
-      <title>EVE Online Resources</title>
-      <link>https://wajib.space/posts/eve-online-resources</link>
-      <description>Just stuff I want to be able to find quickly.</description>
-      <guid>https://wajib.space/posts/eve-online-resources</guid>
-    </item>
-    <item>
-      <title>Nightmares</title>
-      <link>https://wajib.space/posts/nightmares</link>
-      <description>A list of terrible dreams I've had.</description>
-      <guid>https://wajib.space/posts/nightmares</guid>
     </item>
   </channel>
 </rss>
