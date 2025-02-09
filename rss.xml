@@ -1,4 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Wesley's Home Page</title>
     <link>https://wajib.space</link>
@@ -10,72 +10,361 @@
       <title>Bi Resources</title>
       <link>https://wajib.space/posts/bi-resources</link>
       <description>A list of resources for bi people.</description>
+      <content:encoded>&lt;section class="list"&gt;
+            &lt;h4&gt;Organizing&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://biresource.org/wp-content/uploads/2020/09/Growing-Bi-Community-2020-.pdf"&gt;Growing a Bi+ Community: A Handbook for Facilitators&lt;/a&gt; - a good read for anyone who wants to start an IRL bi community group&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.consortium.lgbt/bi-funding-research-report/"&gt;LGBT+ Consortium Bi Funding Research Report&lt;/a&gt; - the research is specific to the UK but seems very applicable to the US in my experience&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;History&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/playlist?list=PLfem8_cKcEkouo2ek5x70iTMJDP9lWQ_f"&gt;Verity Ritchie's Bisexual History videos&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://anythingthatmovesarchive.carrd.co/"&gt;A digital archive of Anything That Moves&lt;/a&gt; (and &lt;a href="https://archive.org/details/anything-that-moves/"&gt;another at the Internet Archive&lt;/a&gt;), a magazine published by the Bay Area Bisexual Network from 1990 to 2001&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Books&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;s&gt;&lt;a href="https://bipanlibrary.com/"&gt;The Bi Pan Library&lt;/a&gt;, where you can discover media by or about us going back to the start of the 20th century.&lt;/s&gt; (As of February 5th, 2025 this website is down.)&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://theliterarybisexual.neocities.org/"&gt;The Literary Bisexual&lt;/a&gt;, from the co-creator of Verity Ritchie's videos mentioned above, a website that curates "literary, weird, unique, and obscure bisexual books from all across the globe."&lt;/li&gt;
+            
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Health&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://www.pillowfort.social/sexedforbiguys/tagged/sex%20ed%20for%20bi%20guys"&gt;Sex Ed for Bi Guys (&lt;b&gt;NSFW&lt;/b&gt; version)&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://sexedforbiguys.tumblr.com/tagged/sex%20ed%20for%20bi%20guys"&gt;Sex Ed for Bi Guys (&lt;b&gt;SFW&lt;/b&gt; version)&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Other&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://www.bisexualresearch.com/"&gt;Bisexual Research Group&lt;/a&gt; - a cool collaboration between researchers and activists&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        
+        &lt;center&gt;
+            &lt;svg version="1.1" width="320" height="180"&gt;
+              &lt;g transform="scale(320,180)"&gt;
+                &lt;rect width="1" height="0.5" x="0" y="0" fill="#d70270" /&gt;
+                &lt;rect width="1" height="0.5" x="0" y="0.5" fill="#0038a8" /&gt;
+                &lt;rect width="1" height="0.2" x="0" y="0.4" fill="#734f96" /&gt;
+                &lt;polygon points="0.71  0     0.57  0.333 1 0.333 1     0" fill="#ff218c" /&gt;
+                &lt;polygon points="0.57  0.333 0.43  0.667 1 0.667 1     0.333" fill="#ffd800" /&gt;
+                &lt;polygon points="0.43  0.667 0.29  1     1 1     1     0.667" fill="#21b1ff" /&gt;
+              &lt;/g&gt;
+            &lt;/svg&gt;
+        &lt;/center&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/bi-resources</guid>
     </item>
     <item>
       <title>Cornhusker Coach Names</title>
       <link>https://wajib.space/posts/cornhusker-coach-names</link>
       <description>A Markov chain-generated list of future Cornhusker coach names.</description>
+      <content:encoded>&lt;p&gt;I put &lt;a href="https://en.wikipedia.org/wiki/List_of_Nebraska_Cornhuskers_head_football_coaches"&gt;every Cornhusker football coach until 2018&lt;/a&gt; into a &lt;a href="https://github.com/wjbotham/thing-namer"&gt;Markov chain&lt;/a&gt; and generated the following list of future Cornhusker coaches.&lt;/p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Ad Cldo Be Gel Bi&lt;/li&gt;
+            &lt;li&gt;Alaningersblth J. Bing Rie Tolltte Dan&lt;/li&gt;
+            &lt;li&gt;Al Erk&lt;/li&gt;
+            &lt;li&gt;Allieastiney Ly T. N. Man Prgd Binrte&lt;/li&gt;
+            &lt;li&gt;Amo Mil U. X. N. Sconerd Cob Deste&lt;/li&gt;
+            &lt;li&gt;Barnd Bosfot&lt;/li&gt;
+            &lt;li&gt;Beard Ewssbi&lt;/li&gt;
+            &lt;li&gt;Bedwsomord T. C. J. Boote&lt;/li&gt;
+            &lt;li&gt;Belalinnd Maman&lt;/li&gt;
+            &lt;li&gt;Biare U. Wilesobolllilichargsom&lt;/li&gt;
+            &lt;li&gt;Billlliney Lerartewardike&lt;/li&gt;
+            &lt;li&gt;Biloowfforted Sos&lt;/li&gt;
+            &lt;li&gt;Bink Bien Bine&lt;/li&gt;
+            &lt;li&gt;Bob Brd S. Ed Bilen T. Ron&lt;/li&gt;
+            &lt;li&gt;Bomot Banehard Ma Ewarddieargdd Stowam Soner Com&lt;/li&gt;
+            &lt;li&gt;Boraney Frandolli&lt;/li&gt;
+            &lt;li&gt;Bosthil Jenine Ewam&lt;/li&gt;
+            &lt;li&gt;Dal Cotenerndorang&lt;/li&gt;
+            &lt;li&gt;De W. Osteosnch&lt;/li&gt;
+            &lt;li&gt;Eddowank Franrn T. Det E. Dan Frllan St Yolelerdwin C. Kley Fiffonsorstiling U. Bind Sco Elieran&lt;/li&gt;
+            &lt;li&gt;Ed Toth Yonsfos&lt;/li&gt;
+            &lt;li&gt;Ed Yobinich&lt;/li&gt;
+            &lt;li&gt;Ern Scharl Lalevang N. Fry&lt;/li&gt;
+            &lt;li&gt;Ewfo Dasotelo Ost Cli&lt;/li&gt;
+            &lt;li&gt;Ewsk Clonrd&lt;/li&gt;
+            &lt;li&gt;Frahulld O. Cahull Erge&lt;/li&gt;
+            &lt;li&gt;Frnnehasoreskiarld S. Craromobilifowan&lt;/li&gt;
+            &lt;li&gt;Frnstt Lalewilelenenge&lt;/li&gt;
+            &lt;li&gt;Glianerkikey Eddottern Com Bon&lt;/li&gt;
+            &lt;li&gt;Jel Joon&lt;/li&gt;
+            &lt;li&gt;Maldothalam Land C. Ge&lt;/li&gt;
+            &lt;li&gt;Marallle C. Sttes&lt;/li&gt;
+            &lt;li&gt;Peralter Lerk N. Bali&lt;/li&gt;
+            &lt;li&gt;Pes G. Cotesstewa W. J. Osk Klten&lt;/li&gt;
+            &lt;li&gt;St Osb Danicon&lt;/li&gt;
+            &lt;li&gt;Stt Bink Crdi&lt;/li&gt;
+            &lt;li&gt;Thmolierard C. Bando X. Cahon O. Yobowarnes Os&lt;/li&gt;
+            &lt;li&gt;Thms Schanke&lt;/li&gt;
+            &lt;li&gt;Tolasngd J. Frane&lt;/li&gt;
+            &lt;li&gt;Wine Can&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;My favorite future Cornhusker coaches are &lt;b&gt;Ed Yobinich&lt;/b&gt; and &lt;b&gt;Wine Can&lt;/b&gt;.&lt;/p&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/cornhusker-coach-names</guid>
     </item>
     <item>
       <title>EVE Online Resources</title>
       <link>https://wajib.space/posts/eve-online-resources</link>
       <description>Just stuff I want to be able to find quickly.</description>
+      <content:encoded>&lt;section class="list"&gt;
+            &lt;h4&gt;Wormholes&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://wormhole-wiki.readthedocs.io/"&gt;Tripwire Wiki&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://tripwire.eve-apps.com/"&gt;Tripwire&lt;/a&gt; - a mapping tool&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://pathfinder.eve-linknet.com/"&gt;Pathfinder&lt;/a&gt; - another mapping tool&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSaCHnBRDw8Ki6nuamMzQv3InN978Zh7F6RcwlYdJHnlQkDrrdz5zrG3Of_8eoyxeqJimMHt9-7GjLn/pubhtml"&gt;Grubu's Maintained Nolak's Updated Karr's Modified Rykki's Guide 1.5&lt;/a&gt; - info on J-space PVE&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.eve-scout.com/thera/"&gt;Thera Connections&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://anoik.is/"&gt;Anoik.is&lt;/a&gt; - an atlas of wormhole systems&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Industry&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://lazy-blacksmith.space/"&gt;Lazy Blacksmith&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://ravworks.com/"&gt;Ravworks&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="https://all-out.github.io/guides/planetary-interaction/"&gt;A guide to planetary interaction in EVE Online&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.eve-webtools.com/Planetary/"&gt;EWT Planetary Industry Checker&lt;/a&gt;&lt;/li&gt;
+				
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Travel Safety&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://thegreybill.wordpress.com/2020/01/29/gate-camp-survival-guide-for-eve-online/"&gt;Gate Camp Survival Guide&lt;/a&gt; - slightly out of date (can't use multiple warp stabs on one ship anymore)&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=BHkgZWaWdlo"&gt;Video explaining the MWD+cloak trick&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://eve-gatecheck.space/"&gt;Gatecheck&lt;/a&gt; - for spotting recent kills along your route&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://zkillboard.com/"&gt;zKillboard&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://localthreat.xyz/"&gt;localthreat&lt;/a&gt; - paste pilots from local here for a quick threat assessment&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Other&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://evemaps.dotlan.net/map"&gt;Dotlan Maps&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://esi.evetech.net/ui/"&gt;EVE API&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://www.fuzzwork.co.uk/lpstore/"&gt;Loyalty Point to ISK conversions&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://npsi.rocks/"&gt;NPSI Community Calendar&lt;/a&gt; - events where you fleet up with randos to cause havoc&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://feldarkrealms.com/"&gt;Fake Word Generator&lt;/a&gt; - which I use to make names for fits so they're recognizable to me (eventually) but don't give intel on the overview&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://janice.e-351.com/"&gt;Janice&lt;/a&gt; - for pricing items&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://abysstracker.com/"&gt;Abyss Tracker&lt;/a&gt; - information on loot and fits for Abyssal Deadspace&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/eve-online-resources</guid>
     </item>
     <item>
       <title>Nightmares</title>
       <link>https://wajib.space/posts/nightmares</link>
       <description>A list of terrible dreams I've had.</description>
+      <content:encoded>&lt;ul&gt;
+            &lt;li&gt;When I was a teenager I dreamed that there were these freaky zombie elk and deer outside our house. One of them broke in through the bathroom and fell over dead then bloated and exploded and anyone who got its orange gunk on them would become an exploding zombie. I tried to escape but they surrounded me and I had to stand on top of a car and scream for help.&lt;/li&gt;
+            &lt;li&gt;When I was a teenager I had sleep paralysis and a shadowy figure wearing my mother's face ran into the room, got a few inches from my face, and started screaming at me.&lt;/li&gt;
+            &lt;li&gt;I don't remember anything else about this dream but one time I dreamed about a huge malevolent ball of long black needles, all joined together in a point at the middle with no central body. When not hunting prey it would curve all its needles down and balance on a single point. I turned it into a Mage: The Ascension villain.&lt;/li&gt;
+            &lt;li&gt;I dreamed there was a nuclear war and I fled to a shack on a mountain and listened to the radio for other survivors for months. I remember hoping it was just a bad dream but realizing it had been too long to fit into a single night.&lt;/li&gt;
+            &lt;li&gt;I dreamed I got a nasty injury on my arm and after I woke up I spent the morning with an urge to clean and care for the nonexistent wound.&lt;/li&gt;
+            &lt;li&gt;I dreamed that I had a second cat who disappeared a long time ago and I was despondent to realize I had forgotten their name and what they looked like and I was like desperately searching my social media for pictures of my nonexistent other cat to figure it out.&lt;/li&gt;
+            &lt;li&gt;I've had two dreams where I had committed a murder (the dream never included the murder, just the aftermath) and I was regretful about killing someone and also massively stressed out trying to make sure there wasn't any trace evidence linking me to the time and place of the crime.&lt;/li&gt;
+            &lt;li&gt;I had a dream about a hurricane big enough to carry radioactive material from a nuclear plant in Florida all the way here to Nebraska.&lt;/li&gt;
+            &lt;li&gt;In 2010 I dreamed it was 2011 and I was working at my old summer camp. Somehow I realized that I was missing a whole year of memories between summer 2010 and summer 2011 and panicked and demanded that they tell me what I did in the missing year. I woke up feeling disoriented.&lt;/li&gt;
+            &lt;li&gt;One time I dreamed I was dying and I had to race to write letters for everyone I love so they'd have closure. At one point in the dream I dreamed that I woke up, realized it was all a dream, and immediately learned that I was still dying in the new outer layer of the dream and still had to write letters.&lt;/li&gt;
+        &lt;/ul&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/nightmares</guid>
     </item>
     <item>
       <title>January 2024 Media</title>
       <link>https://wajib.space/posts/2024-01-media</link>
       <description>Stuff I watched, read, or played in January 2024.</description>
+      <content:encoded>&lt;section class="list"&gt;
+            &lt;h4&gt;Television&lt;/h4&gt;
+            &lt;ul&gt;
+              &lt;li&gt;&lt;i&gt;She-Ra (seasons 4 and 5).&lt;/i&gt; I took several years off from watching She-Ra due to a breakup so I had to jump around a range of about ten episodes to figure out what was going on when I stopped. I like Scorpia. There are probably going to be more magical princesses in RPGs I run in the future.&lt;/li&gt;
+              &lt;li&gt;&lt;i&gt;Carol and the End of the World.&lt;/i&gt; A very nice story about people seeking meaningful connections in the apocalypse, so basically me irl. My favorite episode is an anthology of stories about items in the office lost and found.&lt;/li&gt;
+              &lt;li&gt;&lt;i&gt;Russian Doll.&lt;/i&gt; I'll watch anything with time travel in it but this is the best kind of time travel story, one that doesn't explain the time travel and uses it unashamedly to explore deep topics (in this case death, aging, and generational trauma).&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/2024-01-media</guid>
     </item>
     <item>
       <title>February 2024 Media</title>
       <link>https://wajib.space/posts/2024-02-media</link>
       <description>Stuff I watched, read, or played in February 2024.</description>
+      <content:encoded>&lt;section class="list"&gt;
+            &lt;h4&gt;Books&lt;/h4&gt;
+            &lt;ul&gt;
+              &lt;li&gt;&lt;i&gt;How Long 'til Black Future Month? (N.K. Jemisin).&lt;/i&gt; Predictably, I loved the time travel stories and the stories about digital beings. &lt;i&gt;The Ones Who Stay and Fight&lt;/i&gt; was the first time I've ever actually been interested in a reaction to &lt;i&gt;The Ones Who Walk Away from Omelas&lt;/i&gt;.&lt;/li&gt;
+              &lt;li&gt;&lt;i&gt;The Golden Enclaves (Naomi Novik).&lt;/i&gt; I enjoyed the first two books mainly as an investigation of collective action problems and to my surprise the third book doubled down on that subject in a very cool way I did not see coming.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Television&lt;/h4&gt;
+            &lt;ul&gt;
+              &lt;li&gt;&lt;i&gt;Bodies.&lt;/i&gt; I didn't even know this show was going to be about &lt;spoiler&gt;a causal time loop&lt;/spoiler&gt;, but that's always a pleasant surprise.&lt;/li&gt;
+              &lt;li&gt;&lt;i&gt;Twin Peaks: The Return.&lt;/i&gt; Twin Peaks is many things. It is a soap opera that delights in quirky, unhinged people. It is a drama touching on heavy topics like domestic abuse, mental illness, and drug abuse. It is an occult allegory that makes just barely enough sense for people to have interesting conversations about it. It is hours on hours of trolling the audience. Season 3 delivered on each of these, especially the last one.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Games&lt;/h4&gt;
+            &lt;ul&gt;
+              &lt;li&gt;&lt;i&gt;Solium Infernum&lt;/i&gt; absolutely delights me. I'm waking up every morning so excited to see what vile tricks my opponents have gotten up to in our asynchronous game.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/2024-02-media</guid>
     </item>
     <item>
       <title>March 2024 Media</title>
       <link>https://wajib.space/posts/2024-03-media</link>
       <description>Stuff I watched, read, or played in March 2024.</description>
+      <content:encoded>&lt;section class="list"&gt;
+            &lt;h4&gt;Books&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;i&gt;System Collapse (Martha Wells).&lt;/i&gt; Murderbot Diaries is my current favorite of all the many stories about a robot learning what it means to be human. In this one Murderbot &lt;spoiler&gt;struggles with PTSD from the last book's events&lt;/spoiler&gt; and &lt;spoiler&gt;makes some uncharacteristically mature decisions&lt;/spoiler&gt; and I love that.&lt;/li&gt;
+                &lt;li&gt;&lt;i&gt;To the King a Daughter (Andre Norton and Sasha Miller).&lt;/i&gt; "I love Andre Norton's sci-fi," I said. "I bet I'll enjoy her fantasy too," I said. It's not in my nature to hate a book unless it's, like, actually racist or something, but dang this book felt bad to read. It was like a genericized mashup of Dune and Game of Thrones and there was a lot of clunky grammar and confusing sentences even by the standards of fantasy novels trying to sound old-timey. Worst of all, there's an evil bog; I will not tolerate wetland slander. (It's entirely possible that her sci-fi is also bad and I just have lower standards for it because I love pulp SF trash. Alas, this one didn't have evil time travel clones or psychic cats to save it.)&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Television&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;i&gt;Mrs. Davis.&lt;/i&gt; I already watched it last year, but this has been the month of pirating it (give me a DVD release!!), rewatching it over and over, making a spreadsheet about it, studying crew interviews, and trying to convince all my friends to see it. I might make a Mrs. Davis fan page one of these days.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Games&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;i&gt;Starship Simulator Demo.&lt;/i&gt; This got me super excited about playing a highly detailed spaceship simulation with lots of room for mastery and complex problems to fix cooperatively with your friends, but all their talk about procedurally generated content has convinced me that this has already failed. If you need AI-generated voice lines because you don't want to do the work to record actual people, you probably don't have it in you to finish a project this ambitious.&lt;/li&gt;
+                &lt;li&gt;&lt;i&gt;Geneforge: Mutagen.&lt;/i&gt; The original Geneforge was a formative experience for me, though I never got anywhere close to finishing it as a kid. Now I'm trying it again for the second time as an adult. Wish me luck and remind me to actually use my healing pods.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/2024-03-media</guid>
     </item>
     <item>
       <title>April/May 2024 Media</title>
       <link>https://wajib.space/posts/2024-05-media</link>
       <description>Stuff I watched, read, or played in April and May of 2024.</description>
+      <content:encoded>&lt;section class="list"&gt;
+            &lt;h4&gt;Television&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;i&gt;Resident Alien (S1-2).&lt;/i&gt; I'm not into cringe comedy so Alan Tudyk needs to dial it back like 30% but otherwise this is a shockingly good show. I came for literally anything to do with Alice Wetterlund and I stayed for beautiful moments about friends building a community life together and Corey Reynolds' incredible nonsense monologues. I will steal season 3 sometime soon.&lt;/li&gt;
+                &lt;li&gt;&lt;i&gt;Star Trek: Discovery (S5).&lt;/i&gt; It was alright. Didn't blow me out of the water like you ought to if you're pulling out the Progenitors, but the alien first contact at the end of season 4 was so cool and weird that I would feel greedy if I complained about this now. I liked that they ended with &lt;spoiler&gt;Michael being a cool old lady in a nice house with a family. That's my kind of fanservice.&lt;/spoiler&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Books&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;i&gt;Blindsight (Peter Watts).&lt;/i&gt; A lot of the horror of this story missed me because I've been jaded for a long time already about the idea that I'm a whole conscious entity. It was a trip reading it now for the first time because non-conscious algorithms that produce convincing human language without understanding are a real danger that I have to dodge at my actual day job in 2024. My unanswered discussion question is: Why are people are attached to conscious awareness as an essential human trait, and why are they unsettled by the thought of not having it?&lt;/li&gt;
+                &lt;li&gt;&lt;i&gt;The Other Significant Others (Rhaina Cohen).&lt;/i&gt; A very timely read as I'm currently having a mild early midlife crisis about whether or not I'll have meaningful long-term relationships without getting married and having kids. This book didn't give me advice or, you know, hope, but I guess I would heartily recommend it as an informative overview of the subject.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/2024-05-media</guid>
     </item>
     <item>
       <title>June/August 2024 Media</title>
       <link>https://wajib.space/posts/2024-07-media</link>
       <description>Stuff I watched, read, or played in June and August of 2024.</description>
+      <content:encoded>&lt;section class="list"&gt;
+            &lt;h4&gt;Movies&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;i&gt;Nope.&lt;/i&gt; I don't care for horror unless it has big ideas about the human need to be at the center of the universe. God I hope they never make a sequel.&lt;/li&gt;
+                &lt;li&gt;&lt;i&gt;Tenet.&lt;/i&gt; A bad spy movie with weird pacing but a very cool time travel movie?&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;h4&gt;Television&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;i&gt;Counterpart.&lt;/i&gt; A very cool spy show about a cold war between our world and a parallel universe that was identical until 30 years ago. The main character is a meek bureaucrat and his alternate is a hardened spy; I expected it to go in a direction where they each succumb to temptations to become more like each other but they both end up being stuck in their ways, more of a meditation on grieving what could have been.&lt;/li&gt;
+				        &lt;li&gt;&lt;i&gt;The Owl House (S1).&lt;/i&gt; Super charming. Cool wizard duels. Relatable tired old Xennial lady.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Books&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;i&gt;The Ballad of Black Tom (Victor LaVelle).&lt;/i&gt; More brutal than I can usually stomach but a great story that does more with cosmic horror than terrified baby H.P. Lovecraft ever did.&lt;/li&gt;
+                &lt;li&gt;&lt;i&gt;Victories Greater Than Death (Charlie Jane Anders).&lt;/i&gt; More YA than I was expecting but a decent queer space opera story. It has the best explanation I've heard for the prevalence of humanoid aliens: &lt;spoiler&gt;Because the first spacefaring civilization were humanoid chauvinists and destroyed all the non-humanoid species they could find.&lt;/spoiler&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/2024-07-media</guid>
     </item>
     <item>
       <title>Whatever Chip Cookies</title>
       <link>https://wajib.space/posts/whatever-chip-cookies</link>
       <description />
+      <content:encoded>&lt;ul&gt;
+        &lt;li&gt;2 1/4 cups all-purpose flour&lt;/li&gt;
+        &lt;li&gt;1 tsp baking soda&lt;/li&gt;
+        &lt;li&gt;1 tsp salt&lt;/li&gt;
+        &lt;li&gt;1 cup (2 sticks) butter, softened&lt;/li&gt;
+        &lt;li&gt;3/4 cup granulated sugar&lt;/li&gt;
+        &lt;li&gt;3/4 cup packed brown sugar&lt;/li&gt;
+        &lt;li&gt;1 tsp vanilla extract&lt;/li&gt;
+        &lt;li&gt;2 large eggs&lt;/li&gt;
+        &lt;li&gt;2 cups whatever kind of morsel&lt;/li&gt;
+        &lt;li&gt;(optional) 1 cup chopped nuts&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;Preheat oven to 375 degrees F.&lt;/p&gt;
+      &lt;p&gt;In a small bowl, combine flour, baking soda, and salt.&lt;/p&gt;
+      &lt;p&gt;In a large mixing bowl, beat butter, granulated sugar, brown sugar, and vanilla extract until creamy.&lt;/p&gt;
+      &lt;p&gt;Add eggs, one at a time, beating well after each addition.&lt;/p&gt;
+      &lt;p&gt;Beat in flour mixture gradually.&lt;/p&gt;
+      &lt;p&gt;Stir in morsels and nuts.&lt;/p&gt;
+      &lt;p&gt;Drop onto ungreased baking sheets by rounded tablespoon.&lt;/p&gt;
+      &lt;p&gt;Bake for 9-11 minutes or until golden brown. Cool on baking sheets for 2 minutes. Remove to wire racks to cool completely.&lt;/p&gt;
+      &lt;p&gt;Makes about 5 dozen cookies.&lt;/p&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/whatever-chip-cookies</guid>
     </item>
     <item>
       <title>Banana Bread</title>
       <link>https://wajib.space/posts/banana-bread</link>
       <description />
+      <content:encoded>&lt;ul&gt;
+        &lt;li&gt;2 cups all-purpose flour&lt;/li&gt;
+        &lt;li&gt;1 teaspoon baking soda&lt;/li&gt;
+        &lt;li&gt;1/4 teaspoon salt&lt;/li&gt;
+        &lt;li&gt;3/4 cup brown sugar&lt;/li&gt;
+        &lt;li&gt;1/2 cup butter&lt;/li&gt;
+        &lt;li&gt;2 large eggs, beaten&lt;/li&gt;
+        &lt;li&gt;2 1/3 cups mashed overripe bananas&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan.&lt;/p&gt;
+      &lt;p&gt;In a large bowl, combine flour, baking soda, and salt.&lt;/p&gt;
+      &lt;p&gt;In a separate large bowl, beat brown sugar and butter with an electric mixer until smooth. Stir in eggs and mashed bananas until well blended.&lt;/p&gt;
+      &lt;p&gt;Stir banana mixture into flour mixture until just combined. Pour batter into the prepared loaf pan.&lt;/p&gt;
+      &lt;p&gt;Bake about 60 minutes until a toothpick inserted into the center comes out clean. Let bread cool in pan for 10 minutes, then turn out onto a wire rack to cool completely.&lt;/p&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/banana-bread</guid>
     </item>
     <item>
       <title>Computer and Internet Resources</title>
       <link>https://wajib.space/posts/computer-and-internet-resources</link>
       <description />
+      <content:encoded>&lt;section class="list"&gt;
+            &lt;h4&gt;Learning&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://messwithdns.net/"&gt;mess with dns&lt;/a&gt;, an extremely cool and fun tool for learning about DNS through safe, playful experimentation.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
+            &lt;h4&gt;Torrenting&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Get a torrent client like &lt;a href="https://www.qbittorrent.org/"&gt;qBittorrent&lt;/a&gt;.&lt;/li&gt;
+                &lt;li&gt;Subscribe to a VPN service like &lt;a href="https://mullvad.net/"&gt;Mullvad&lt;/a&gt; (it's cheaper than streaming services). Most services also have a guide for configuring your torrent client to use them.&lt;/li&gt;
+                &lt;li&gt;Before torrenting, use &lt;a href="https://ipleak.net/"&gt;ipleak.net&lt;/a&gt;'s "Torrent Address detection" to verify that your torrent client isn't leaking information.&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+    </content:encoded>
       <guid>https://wajib.space/posts/computer-and-internet-resources</guid>
     </item>
   </channel>
