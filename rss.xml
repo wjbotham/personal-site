@@ -358,6 +358,13 @@
             &lt;/ul&gt;
         &lt;/section&gt;
         &lt;section class="list"&gt;
+            &lt;h4&gt;Software&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://www.videolan.org/vlc/"&gt;VLC&lt;/a&gt;, an audio/video player&lt;/li&gt;
+                &lt;li&gt;&lt;a href="https://okular.kde.org/"&gt;Okular&lt;/a&gt;, a PDF and ebook reader&lt;/li&gt;
+            &lt;/ul&gt;
+        &lt;/section&gt;
+        &lt;section class="list"&gt;
             &lt;h4&gt;Torrenting&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Get a torrent client like &lt;a href="https://www.qbittorrent.org/"&gt;qBittorrent&lt;/a&gt;.&lt;/li&gt;
